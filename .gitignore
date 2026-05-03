@@ -16,5 +16,4 @@ dataset/
 *.pth
 *.h5
 *.safetensors
-weights/
 results/
