@@ -44,7 +44,7 @@ dataset/test/: Folders containing DEFECT, TB, or NORMAL images for evaluation.
 ### 4. Evaluation
 5. After training, evaluate the model on the test set:
 ```bash
-uv run python -m notebooks.DeepCXR
+uv run python -m src.DeepCXR
 ```
 ## Team and Acknowledgments
 Hussein Hodroj - Middle East University  
@@ -57,7 +57,7 @@ Supervisor: Dr. Maria Yousef (Middle East University)
 This research was presented at the ICETES 2026 conference. The work is indexed in IEEE Xplore and Scopus.
 
 ## Contact
-For further information or collaboration opportunities, please contact Hussein Hodroj at [husseinwork6@gmail.com]
+For further information or collaboration opportunities, please contact Hussein Hodroj at [husseinwork6@gmail.com], or Thabit Bustanji at [thabitbustanji@hotmail.com].
 
 ## Citation
 If you use this code in your research, please cite our paper:
@@ -71,4 +71,3 @@ If you use this code in your research, please cite our paper:
   note={Indexed in Scopus and IEEE Xplore}
 }
 ```
-
