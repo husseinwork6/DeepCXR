@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# DeepCXR Datasets and Weights
+dataset/
+*.zip
+*.pt
+*.pth
+*.h5
+*.safetensors
+weights/
+results/
